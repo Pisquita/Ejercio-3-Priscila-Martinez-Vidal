@@ -1,0 +1,20 @@
+.Marca a {
+    font-size: 25px;
+    font-family: Arial;
+    color: #f1c40f;
+    
+    
+}
+
+.Marca :hover{
+    color: #009432;
+}
+
+.As a{
+    font-size: 25px;
+    font-family: Arial;
+    color: blueviolet;
+}
+.As :hover{
+    color: #EA2027;
+}
